@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Juarez Culau",
+    "logo_name": "juarez-culau",
+    "role": "Software developer | Game developer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I have a background in science, but aside from my academic pursuits, I've honed my skills in software development and game design. I've worked on an exciting open-source project where I developed the MABA (Mice Automatic Behavior Analysis) tool. This bioinformatic tool utilizes deep-learning models to extract visual behavior data from mice in neuroscience research. As an Unreal Developer, I've also had the opportunity to create gameplay systems, optimize physics systems, and design 2D and 3D games using Unreal Engine 4 and 5. Additionally, I've contributed to AI development, enhancing character behaviors to create immersive gaming experiences."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<p>\nAs a Software Developer, I have experience in Python and C++ programming languages, leveraging my expertise in computer vision libraries such as OpenCV and TensorFlow. My specialized skills in computer vision and software development include:\n  <br><br>\n  - Image Processing: Applying filters, performing edge detection, and advanced image segmentation techniques to extract meaningful information from images and videos.\n  <br>\n  - Deep Learning: Designing and deploying deep learning models for computer vision tasks, utilizing frameworks like TensorFlow and PyTorch to solve complex problems such as image classification, object detection, and semantic segmentation.\n  <br>\n  - Software Development: Proficiency in Python and C++ enables me to develop robust and efficient software solutions, with a focus on creating high-quality code, implementing algorithms, and optimizing performance.\n</p>\n\n<p>\n  <br> Transitioning to my passion for Game Development, I possess expertise in creating captivating games using Unreal Engine 4 and Unreal Engine 5, incorporating various mechanics and features:\n  <br><br>\n  - Combat Systems: Designing engaging combat mechanics that involve player input, enemy AI, and strategic decision-making. Implementing features such as different attack types, combos, special abilities, and enemy behavior patterns.\n  <br>\n  - Character Movement and Physics: Implementing smooth and responsive character movement with precise controls, including platforming mechanics, jumping, running, and physics-based interactions.\n  <br>\n  - Game AI: Developing intelligent and challenging AI behaviors for non-player characters (NPCs), such as enemy behavior, pathfinding, decision-making, and adaptive AI. \n  <br>\n - Writing: Showcasing a strong capability for crafting immersive stories and creating compelling narratives that resonate with players and make the game be remembered. <br>\n\n\n<p>\n  Combining my expertise in software development and game development, I bring a unique perspective to my projects, delivering innovative solutions and captivating gameplay experiences. \n</p>\n"
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<p>\n  <br>Problem Solving: My background in science has led me to develop strong analytical skills, enabling me to understand and solve problems effectively.\n  <br><br>Adaptability: I am quick to learn, allowing me to easily adapt to different environments and technologies.\n  <br><br>Communication: With experience collaborating in teams, I excel at explaining concepts in both technical and non-technical terms. I am also adept at documenting actions in an organized manner.\n</p>"
                     }
                 }
             },
@@ -28,7 +28,7 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br>I have a strong academic background in science, which has provided me with a solid foundation in data analysis and problem-solving. Throughout my academic journey, I have had the opportunity to work on various projects, predominantly focused on biological applications. These projects involved handling large datasets and applying artificial intelligence techniques to derive meaningful insights. This experience has not only enhanced my programming skills but has also fostered my ability to tackle complex challenges with creativity and precision. \n  <br>\n  During my academic years, I embarked on a journey to explore the realm of game development, honing my skills by creating small games and demos. This hands-on experience eventually paved the way for freelance opportunities in Unreal Engine, where I had the chance to showcase my expertise.\n\nThroughout my journey, I have become adept at crafting captivating narratives that immerse players in rich storytelling. Additionally, I possess a strong command over creating intricate mechanics and designing AI behaviors that enhance the overall gameplay experience."
                     },
                     "interests": {
                         "title": "interests",
@@ -36,10 +36,10 @@
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<p>\n  I am committed to continuously improving my skills in software development and game creation. The advancements in Artificial Intelligence have revolutionized the automation of numerous tasks, presenting new breakthrough opportunities in development. Furthermore, the frequent release of cutting-edge technologies in game development for Unreal Engine has made it even more achievable to create unforgettable experiences.\n  <br><br>\n  Embracing these advancements, I have developed a fervent passion for learning and implementing these technologies. It is my utmost goal to stay updated with the latest trends, ensuring that I can leverage them to deliver exceptional results in software development and game creation.\n</p>",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "high-school": "Antônio Valadares",
+                            "university": "Dom Bosco Catholic University"
                         }
                     }
                 }
@@ -50,11 +50,11 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I have a deep passion for sports, particularly calisthenics and climbing, which captivate my enthusiasm and drive for physical challenges."
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br><p>\n  Skyrim holds a special place in my heart, as I have dedicated countless hours exploring and replaying the game, often enhanced by mods that bring new dimensions to the experience.\n  <br><br>\n  Moreover, Kingdom Come Deliverance captivated me with its remarkable realism, immersing me in a historically accurate world. No Man's Sky provided me with awe-inspiring experiences, as its vast universe and exploration possibilities ignited my imagination.\n  <br><br>\n  Additionally, X4 Foundation stands out for its intricate systems and advanced artificial intelligence, creating a dynamic and immersive space simulation experience.\n</p>"
                     }
                 }
             }
@@ -64,15 +64,15 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "juarezcbp@hotmail.com",
+                "phone": "+55(67)98457-4549"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/",
-                "user": "username"
+                "url": "https://github.com/JuarezCulau",
+                "user": "@JuarezCulau"
             },
             "facebook": {
                 "title": "Facebook profile",
