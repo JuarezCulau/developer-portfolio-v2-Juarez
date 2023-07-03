@@ -32,14 +32,13 @@
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<p>\n  I am committed to continuously improving my skills in software development and game creation. The advancements in Artificial Intelligence have revolutionized the automation of numerous tasks, presenting new breakthrough opportunities in development. Furthermore, the frequent release of cutting-edge technologies in game development for Unreal Engine has made it even more achievable to create unforgettable experiences.\n  <br><br>\n  Embracing these advancements, I have developed a fervent passion for learning and implementing these technologies. It is my utmost goal to stay updated with the latest trends, ensuring that I can leverage them to deliver exceptional results in software development and game creation.\n</p>"
                     },
-                    "education": {
+                    "curriculum": {
                         "title": "education",
-                        "description": "<p>\n  I am committed to continuously improving my skills in software development and game creation. The advancements in Artificial Intelligence have revolutionized the automation of numerous tasks, presenting new breakthrough opportunities in development. Furthermore, the frequent release of cutting-edge technologies in game development for Unreal Engine has made it even more achievable to create unforgettable experiences.\n  <br><br>\n  Embracing these advancements, I have developed a fervent passion for learning and implementing these technologies. It is my utmost goal to stay updated with the latest trends, ensuring that I can leverage them to deliver exceptional results in software development and game creation.\n</p>",
+                        "description": "<br> Full curriculum for you",
                         "files": {
-                            "high-school": "Antônio Valadares",
-                            "university": "Dom Bosco Catholic University"
+                            "curriculum-vitae-(CV)": "JuarezCV.pdf"
                         }
                     }
                 }
