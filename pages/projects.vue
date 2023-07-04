@@ -254,7 +254,7 @@ export default {
   },
   data() {
     return {
-      techs: ['React', 'HTML', 'CSS', 'Vue', 'Angular', 'Gatsby', 'Flutter'],
+      techs: ['Python', 'C++', 'OpenCV', 'TensorFlow', 'Numpy', 'Unreal Engine'],
       filters: ['all'],
       projects: '',
       loading: true,

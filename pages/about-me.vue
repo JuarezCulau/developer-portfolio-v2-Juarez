@@ -318,9 +318,28 @@ export default {
      * TODO: Hay que crear un método para que cuando se haga click en un folder, se muestren los archivos que contiene. Y si se hace click en un archivo, se muestre el contenido del archivo.
      * TODO:  Además de girar el icono del diple.
      */
+
+/* This code is not working (toggleFiles) */
     toggleFiles() {
-      document.getElementById('file-' + this.folder).classList.toggle('hidden')
+  const fileElement = document.getElementById('file-' + this.folder);
+  fileElement.classList.toggle('hidden');
+
+  const filePath = 'file-' + this.folder;
+
+  if (fileElement.classList.contains('hidden')) {
+    // Hide the file content
+    const fileContentElement = document.getElementById(filePath);
+    fileContentElement.style.display = 'none';
+  } else {
+    // Display the file content
+    const fileContentElement = document.getElementById(filePath);
+    fileContentElement.style.display = 'block';
+
+    // Open Google link in a new tab
+    window.open('https://www.google.com', '_blank');
+  }
     },
+
     /* Mobile */
     showContacts() {
       document.getElementById('contacts').classList.toggle('hidden')
