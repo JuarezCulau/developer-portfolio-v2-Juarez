@@ -18,7 +18,5 @@
     "aos": "^3.0.0-beta.6",
     "highlight.js": "^11.7.0"
   },
-    "resolutions": {
-    "yarn": "3.6.1"
-  }
+  "packageManager": "yarn@3.6.1"
 }
