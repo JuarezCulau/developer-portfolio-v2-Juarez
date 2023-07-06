@@ -60,7 +60,7 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "juarezcbp@hotmail.com",
+                "email": "juarezcbp@gmail.com",
                 "phone": "+55(67)98457-4549"
             }
         },
@@ -94,30 +94,30 @@
 
     },
     "gists": {
-        "1": "83861a67e377633ee8368df01ee3a355",
-        "2": "694c1f32332788a2ac7f37b09e5aa40e"
+        "1": "799397302735567771b59f6e8d6b9ac6",
+        "2": "078da5714e25762600eb8f78177629f5"
     },
     "projects": {
         "1": {
-            "title": "MABA",
-            "description": "MABA (Mice Automatic Behavior Analysis) is a powerful bioinformatic tool designed to automate the analysis of visual behavior in mice and rats.",
+            "title": "_maba",
+            "description": "MABA (Mice Automatic Behavior Analysis) is an open-source bioinformatics tool designed to simplify the process of behavior experimentation analysis in mice and rats. The traditional methods of analyzing footage of behavior experiments are often complex, subjective, and time-consuming. MABA addresses these issues by utilizing recent advancements in computer vision and artificial intelligence to automate the analysis process while maintaining a high level of precision. Moreover, the software operates efficiently without the need for expensive hardware, and it remains effective even with lower-resolution video inputs. Additionally, users can conveniently select and analyze multiple videos simultaneously, enhancing the workflow and facilitating dynamic analysis of extensive data sets.",
             "img": "/images/projects/maba.png",
             "tech": ["TensorFlow", "OpenCV", "Numpy", "Python"],
             "url": "https://github.com/JuarezCulau/MABA"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "title": "_dynamic-combat-system",
+            "description": "The combat system enables seamless integration of new weapons, incorporating unique animations, special attacks, combos, and associated statistics such as damage, stamina, and mana costs. Players can progressively upgrade these statistics through an interface during the game by accumulating experience points from enemies killed. Additionally, the system offers features like dodging, enemy patrolling, combat AI, and adaptable combat and non-combat modes, widgets, etc. ",
+            "img": "/images/projects/combat_system.png",
+            "tech": ["Unreal Engine"],
+            "url": "https://youtu.be/3RvQx9ftYuU"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "title": "_callis-long-walk",
+            "description": "Callis is an ongoing personal project that is currently in development. Within the realm of gameplay, \"The Long Walk\" serves as a meticulously crafted scene showcasing the immersive environment that I am striving to create. Accompanying this scene is a carefully designed ghost entity, gracefully soaring around a towering structure. Its flight pattern, whether it be a predetermined course or the ability to dynamically pursue players, can be easily adjusted to further enhance gameplay dynamics.",
+            "img": "/images/projects/calis.png",
+            "tech": ["Unreal Engine"],
+            "url": "https://youtu.be/0LxJ7B7EUpQ"
         },
         "4": {
             "title": "_ui-animations",
