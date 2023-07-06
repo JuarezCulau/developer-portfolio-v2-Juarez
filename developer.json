@@ -14,7 +14,7 @@
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<p>\nAs a Software Developer, I have experience in Python and C++ programming languages, leveraging my expertise in computer vision libraries such as OpenCV and TensorFlow. My specialized skills in computer vision and software development include:\n  <br><br>\n  - Image Processing: Applying filters, performing edge detection, and advanced image segmentation techniques to extract meaningful information from images and videos.\n  <br>\n  - Deep Learning: Designing and deploying deep learning models for computer vision tasks, utilizing frameworks like TensorFlow to solve complex problems such as image classification, object detection, and semantic segmentation.\n  <br>\n  - Software Development: Proficiency in Python and C++ enables me to develop robust and efficient software solutions, with a focus on creating high-quality code, implementing algorithms, and optimizing performance.\n</p>\n\n<p>\n  <br> Transitioning to my passion for Game Development, I possess expertise in creating captivating games using Unreal Engine 4 and Unreal Engine 5, incorporating various mechanics and features:\n  <br><br>\n  - Combat Systems: Designing engaging combat mechanics that involve player input, enemy AI, and strategic decision-making. Implementing features such as different attack types, combos, special abilities, and enemy behavior patterns.\n  <br>\n  - Character Movement and Physics: Implementing smooth and responsive character movement with precise controls, including platforming mechanics, jumping, running, and physics-based interactions.\n  <br>\n  - Game AI: Developing intelligent and challenging AI behaviors for non-player characters (NPCs), such as enemy behavior, pathfinding, decision-making, and adaptive AI. \n  <br>\n - Writing: Showcasing a strong capability for crafting immersive stories and creating compelling narratives that resonate with players and make the game be remembered. <br>\n\n\n<p>\n <br> Combining my expertise in software development and game development, I bring a unique perspective to my projects, delivering innovative solutions and captivating gameplay experiences. \n</p>\n"
+                        "description": "<p>\nAs a Software Developer, I have experience in Python and C++ programming languages, leveraging my knowledge in computer vision libraries such as OpenCV and TensorFlow. My specialized skills in computer vision and software development include:\n  <br><br>\n  - Image Processing: Applying filters, performing edge detection, and advanced image segmentation techniques to extract meaningful information from images and videos.\n  <br>\n  - Deep Learning: Designing and deploying deep learning models for computer vision tasks, utilizing frameworks like TensorFlow to solve complex problems such as image classification, object detection, and semantic segmentation.\n  <br>\n  - Software Development: Proficiency in Python and C++ enables me to develop robust and efficient software solutions, with a focus on creating high-quality code, implementing algorithms, and optimizing performance.\n</p>\n\n<p>\n  <br> Transitioning to my passion for Game Development, I possess knowledge in creating captivating games using Unreal Engine 4 and Unreal Engine 5, incorporating various mechanics and features:\n  <br><br>\n  - Combat Systems: Designing engaging combat mechanics that involve player input, enemy AI, and strategic decision-making. Implementing features such as different attack types, combos, special abilities, and enemy behavior patterns.\n  <br>\n  - Character Movement and Physics: Implementing smooth and responsive character movement with precise controls, including platforming mechanics, jumping, running, and physics-based interactions.\n  <br>\n  - Game AI: Developing intelligent and challenging AI behaviors for non-player characters (NPCs), such as enemy behavior, pathfinding, decision-making, and adaptive AI. \n  <br>\n - Writing: Showcasing a strong capability for crafting immersive stories and creating compelling narratives that resonate with players and make the game be remembered. <br>\n\n\n<p>\n <br>  English: Advanced<br> Portuguese: Native \n</p>\n"
                     },
                     "soft-skills": {
                         "title": "soft-skills",
@@ -100,7 +100,7 @@
     "projects": {
         "1": {
             "title": "_maba",
-            "description": "MABA (Mice Automatic Behavior Analysis) is an open-source bioinformatics tool designed to simplify the process of behavior experimentation analysis in mice and rats. The traditional methods of analyzing footage of behavior experiments are often complex, subjective, and time-consuming. MABA addresses these issues by utilizing recent advancements in computer vision and artificial intelligence to automate the analysis process while maintaining a high level of precision. Moreover, the software operates efficiently without the need for expensive hardware, and it remains effective even with lower-resolution video inputs. Additionally, users can conveniently select and analyze multiple videos simultaneously, enhancing the workflow and facilitating dynamic analysis of extensive data sets.",
+            "description": "MABA (Mice Automatic Behavior Analysis) is an open-source bioinformatics tool designed to simplify the process of behavior experimentation analysis in mice and rats. Moreover, the software operates efficiently without the need for expensive hardware, and it remains effective even with lower-resolution video inputs. Additionally, users can conveniently select and analyze multiple videos simultaneously, enhancing the workflow and facilitating dynamic analysis of extensive data sets.",
             "img": "/images/projects/maba.png",
             "tech": ["TensorFlow", "OpenCV", "Numpy", "Python"],
             "url": "https://github.com/JuarezCulau/MABA"
@@ -120,25 +120,18 @@
             "url": "https://youtu.be/0LxJ7B7EUpQ"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "title": "_retro-castlevania",
+            "description": "A 2D retro game inspired by Castlevania, this project combines platformer elements with a strong focus on combat mechanics. The controls have been optimized to deliver enhanced responsiveness, enabling players to engage in dynamic battles with enemies throughout the map. Customized AI systems have been developed to define enemy behaviors, creating certain attitudes from the enemies themselves, as example, the ghost remains invisible until he sees the player within a specific range. This project is a good foundation for a platformer game with a focus on combat. ",
+            "img": "/images/projects/castlevania.png",
+            "tech": ["Unreal Engine"],
+            "url": "https://youtu.be/Iqiwsz8isMU"
         },
         "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
+            "title": "_retro-runner",
+            "description": "A 2D retro runner game inspired by Mario Bros. The game includes various elements such as spike traps, water, lava, checkpoints, enemy, and friendly character. Players have the opportunity to collect items like coin boxes, power-ups for temporary speed boosts, and hearts for lives recovery. Losing all three lives leads to defeat. The game features a powerful attack mechanic that players can use to fight the enemies and unique effects for each item. By simple dragging and dropping the created items, creating maps becomes effortless, making it an excellent foundation for plataformer games.",
+            "img": "/images/projects/retro_runner.png",
+            "tech": ["Unreal Engine"],
+            "url": "https://youtu.be/PFdfzW27y24"
         }
     }
 }
